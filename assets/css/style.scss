@@ -1,0 +1,19 @@
+// Import main Jekyll theme styles
+@import "minima";
+
+// Custom styles
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #333333;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    color: #007BFF;
+    text-decoration: none;
+}
